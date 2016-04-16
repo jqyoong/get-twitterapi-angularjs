@@ -1,0 +1,23 @@
+ #search-panel{
+  position: absolute;
+  top: 10%;
+  z-index: 5;
+  padding: 5px;
+  font-family: 'Roboto','sans-serif';
+  line-height: 30px;
+}
+#floating-panel{
+  position: absolute;
+  top: 10px;
+  left: 25%;
+  z-index: 5;
+  padding: 5px;
+  text-align: center;
+  font-family: 'Roboto','sans-serif';
+  line-height: 30px;
+}
+
+#map {
+    height: 700px;
+    width: 1200px;
+  }
