@@ -5,9 +5,9 @@
 <?php
 
 	$consumer = "mvfD3ocnp7R5R7xVVBe7m6IHQ";
-	$consumersecret = "zgLTz7HKjJGtcB2CDE8NVQjmf9kaPi7c1QWVCFozlz5jTnfCPd";
-	$accesstoken = "580542563-DymM1Nr2XUjwBHYB2c8idsH62PaZmGy8hSKi5diO";
-	$accesstokensecret = "txSN0RObFCOrqHtSfYe82iJTs99z3bTfCUPUt6mpSU062";
+	$consumersecret = "";
+	$accesstoken = "";
+	$accesstokensecret = "";
 
 	$date = date('d-m-Y');
 	$connection = new TwitterOAuth($consumer,$consumersecret,$accesstoken,$accesstokensecret);
